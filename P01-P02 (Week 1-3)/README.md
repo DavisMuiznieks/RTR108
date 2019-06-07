@@ -1,5 +1,4 @@
 # P04
-## Mūžsenais jautājums - kādēļ jauns repository?
+## Darbs ar ķēžu zīmēšanu
 
-Jo **kādēļ** gan nē, _minēja P04 darba prezentācijas slaids_.
 
